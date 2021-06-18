@@ -1,8 +1,10 @@
 # Herramientas-computacionales
 ejercicios herramientas cumputacionales
 
+## archivo de preguntos a resolver del taller 
 
-# TALLER
+
+### TALLER
 Realizar la solución a los siguientes problemas, recuerde seguir los pasos: análisis, diseño,
 implementación y pruebas, la implementación pueden realizarla en pseudocódigo.
 
